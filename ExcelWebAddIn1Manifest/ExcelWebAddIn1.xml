@@ -114,6 +114,7 @@
     </Hosts>
     
     <!-- You can use resources across hosts and form factors. -->
+    <!-- You can use resources across hosts and form factors. -->
     <Resources>
       <bt:Images>
         <bt:Image id="Contoso.tpicon_16x16" DefaultValue="~remoteAppUrl/Images/Button16x16.png" />
